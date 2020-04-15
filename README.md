@@ -5,6 +5,7 @@ In this fork, the notebooks will be edited for setting up on Google Colab. Pull 
 The following links will open the notebooks that have been set up so far directly on Google Colab:
 - [01_intro_colab.ipynb](https://colab.research.google.com/github/WittmannF/course-v4/blob/master/nbs/01_intro_colab.ipynb)
 - [02_production_colab.ipynb](https://colab.research.google.com/github/WittmannF/course-v4/blob/master/nbs/02_production_colab.ipynb)
+- [04_mnist_basics_colab.ipynb](https://colab.research.google.com/github/WittmannF/course-v4/blob/master/nbs/04_mnist_basics_colab.ipynb)
 
 Alternativelly, you can head to the folder [nbs](https://github.com/WittmannF/course-v4/tree/master/nbs) above, select the the notebook and click in "Open in Colab" (only those covered in class so far will have the button):
 
@@ -17,3 +18,4 @@ Alternativelly, you can head to the folder [nbs](https://github.com/WittmannF/co
 Keep fork up to date:
 - https://gist.github.com/CristinaSolana/1885435
 - https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository
+- Merging conflicted notebooks: https://youtu.be/Hrs7iEYmRmg?t=774
