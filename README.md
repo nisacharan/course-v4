@@ -16,7 +16,6 @@ Alternativelly, you can head to the folder [nbs](https://github.com/WittmannF/co
 
 ## Updates
 - In order to make it easier to merge updates from the original branch into the fork, all of the adapted notebooks will be renamed adding the suffix `_colab.ipynb` in the end. 
-- 05 Pet Breeds got an error in the middle and took too long to run. But it basically has what has been approached so far.
 
 ## Reminder to myself
 Keep fork up to date:
