@@ -1,5 +1,5 @@
 # course-v4 - Fork for Colab users
-In this fork, the notebooks will be edited for setting up on Google Colab. Pull requests and issues with suggestions are welcome! UPDATE: Just noticed it is not possible to open issues in forks, but feel free to contact me in the fastai forum: @wittmannf.
+In this fork, the notebooks will be edited for setting up on Google Colab. Pull requests and issues with suggestions are welcome! 
 
 ## Direct links for opening on Colab
 The following links will open the notebooks that have been set up so far directly on Google Colab:
