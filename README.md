@@ -1,6 +1,33 @@
 # course-v4 - Fork for Colab users
 In this fork, the notebooks will be edited for setting up on Google Colab. Pull requests and issues with suggestions are welcome! 
 
+## Instructions
+Basically the following lines of code have been added in the beginning of each notebook:
+```
+# Let's first download a utility file for setting up Google Colab
+!wget https://raw.githubusercontent.com/WittmannF/course-v4/master/utils/colab_utils.py
+
+from colab_utils import setup_fastai_colab
+setup_fastai_colab()
+
+```
+
+Here's the usual output:
+```
+    NOTE: For debugging and visualizing stdout, please run:
+    from colab_utils import *
+    !{REQUIREMENTS_PIP}
+    !{GIT_CLONE_REPOSITORY}
+    %cd {FASTAI_NB_PATH}
+
+Installing requirements...
+Done!
+Cloning FastAI Repository...
+Done!
+Opening folder course-v4/nbs/ with nbs and utils files...
+Done!
+```
+
 ## Direct links for opening on Colab
 The following links will open the notebooks that have been set up so far directly on Google Colab:
 - [01_intro_colab.ipynb](https://colab.research.google.com/github/WittmannF/course-v4/blob/master/nbs/01_intro_colab.ipynb)
