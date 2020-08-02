@@ -38,7 +38,7 @@ def open_nb_folder():
 
 def wget_nbdev_settings():
     print(f"Downloading Nbdev settings.ini File")
-    os.chdir(WGET_NBDEV_SETTINGS)
+    os.system(WGET_NBDEV_SETTINGS)
     print("Done!")
 
 
