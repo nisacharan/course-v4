@@ -16,11 +16,12 @@ SETUP_WARNING="""    NOTE: For debugging and visualizing stdout, please run:
     %cd {FASTAI_NB_PATH}
 """
 
-GIT_CLONE_REPOSITORY = 'git clone https://github.com/fastai/fastai/'
+GIT_CLONE_REPOSITORY = "https://github.com/fastai/fastbook"
 
 WGET_NBDEV_SETTINGS = "wget https://raw.githubusercontent.com/fastai/nbdev/master/settings.ini"
 
-FASTAI_NB_PATH = "course-v4/nbs/"
+# FASTAI_NB_PATH = "course-v4/nbs/"
+FASTAI_NB_PATH = "fastbook/clean"
 def install_requirements():
     print("Installing requirements...")
     os.system(REQUIREMENTS_PIP)
