@@ -16,7 +16,7 @@ SETUP_WARNING="""    NOTE: For debugging and visualizing stdout, please run:
     %cd {FASTAI_NB_PATH}
 """
 
-GIT_CLONE_REPOSITORY = 'git clone https://github.com/fastai/course-v4/'
+GIT_CLONE_REPOSITORY = 'git clone https://github.com/fastai/fastai/'
 
 WGET_NBDEV_SETTINGS = "wget https://raw.githubusercontent.com/fastai/nbdev/master/settings.ini"
 
